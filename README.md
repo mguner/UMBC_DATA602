@@ -16,3 +16,15 @@ Meetings: on Tuesdays between 4:30 to 7:00 PM. Online: Blackboard Collaborate
 
 [The detailed rubric for Project-1](https://docs.google.com/spreadsheets/d/1DE1_TZSwszK5DJDkAcnGllLH8iOtuqfvuVxOu0fZCdE/edit?usp=sharing)
 
+Homework-2: Due to Week-10: November 3rd by 4:30PM
+
+Details will be announced.
+
+Homework-3: Due to Week-13: November 24th by 4:30PM
+
+Details will be announced.
+
+Final Project: Due to Week-15: December 8th by 4:30PM
+
+Details will be announced
+
