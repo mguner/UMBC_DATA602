@@ -1,7 +1,7 @@
 # UMBC_Data602
 Hello Everyone! Here I will be sharing course notes for UMBC DATA 602 Fall 2020
 
-[Syllabus](syllabus/DATA 602 Syllabus_Fall20.pdf)
+![Syllabus](syllabus/DATA 602 Syllabus_Fall20.pdf)
 
 # General Information
 
