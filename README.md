@@ -14,7 +14,7 @@ Meetings: on Tuesdays between 4:30 to 7:00 PM. Online: Blackboard Collaborate
 
 # Assignments
 
-[Midterm Project: Due to Week-7: October 13th by 4:30PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602-Project-1.ipynb)
+[Midterm Project: Due to Week-7: October 18th by 11:59PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602-Project-1.ipynb)
 
 [The detailed rubric for Project-1](https://docs.google.com/spreadsheets/d/1DE1_TZSwszK5DJDkAcnGllLH8iOtuqfvuVxOu0fZCdE/edit?usp=sharing)
 
