@@ -1,7 +1,9 @@
-.DS_Store
-.ipynb_checkpoints
+*DS_Store
 /Data
 /Other
 textbooks/
 .idea/
 __pycache__/
+*ipynb_checkpoints
+*zip
+*cfg

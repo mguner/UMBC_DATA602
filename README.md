@@ -20,7 +20,7 @@ Meetings: on Tuesdays between 4:30 to 7:00 PM. Online: Blackboard Collaborate
 
 [The detailed rubric for Project-1](https://docs.google.com/spreadsheets/d/1DE1_TZSwszK5DJDkAcnGllLH8iOtuqfvuVxOu0fZCdE/edit?usp=sharing)
 
-[Homework-2: Due to Week-10: November 3rd by 4:30PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602%20-%20Second%20Homework.ipynb)
+[Homework-2: Due to Week-10: November 8rd by 11:59PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602%20-%20Second%20Homework.ipynb)
 
 Details will be announced.
 
