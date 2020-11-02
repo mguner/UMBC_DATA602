@@ -28,6 +28,9 @@ __Homework 2__
 
 [Homework-2: Due to Week-11: November 15th by 11:59PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602%20-%20Second%20Homework.ipynb)
 
+[Google Form Submission Link](https://forms.gle/trvrXd2ZrynJW7EX6)
+
+
 [Rubric for the homework](https://docs.google.com/spreadsheets/d/1p8WVW1Zr95a6-lNn7bDJ8Hp06PclfLzmkkVdKlmhjWY/edit?usp=sharing)
 
 -----
