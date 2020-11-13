@@ -6,9 +6,11 @@ Hello Everyone! Here I will be sharing course notes for UMBC DATA 602 Fall 2020
 ## Assignments
 
 
-Final Project: Due to Week-15: December 8th by 4:30PM
+[Final Project: Due to Week-15: December 8th by 4:30PM](https://github.com/mguner/UMBC_DATA602/blob/master/assignments/Data602-Final_Project.ipynb)
 
-Details will be announced
+__Homework-3__
+
+We cancelled the homework 3. Everyone will be automatically assigned 10 full points for this homework.
 
 __Homework 2__
 
